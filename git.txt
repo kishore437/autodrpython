@@ -5,6 +5,7 @@ git and github?
 setup github account
 install git in windows 
 install git in linux
+install git in mac
 
 how to config git?
 
