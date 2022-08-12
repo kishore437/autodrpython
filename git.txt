@@ -1,0 +1,23 @@
+
+
+git and github?
+
+setup github account
+install git in windows 
+install git in linux
+
+how to config git?
+
+git config --list
+git config --global -e
+git config --global user.name "<>"
+git config --global user.email "<>"
+
+git config --list
+
+
+configure git with notepad++/nano
+
+
+
+
